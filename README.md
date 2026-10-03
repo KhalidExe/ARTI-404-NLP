@@ -11,5 +11,6 @@ Lab work for ARTI 404: Natural Language Processing.
 | 03 | N-grams (MLE bigram model, tweet generation) | [Lab_03](Lab_03) |
 | 04 | Text classification (TF-IDF + Naive Bayes) | [Lab_04](Lab_04) |
 | 05 | Text representation (TF-IDF, cosine similarity, Word2Vec) | [Lab_05](Lab_05) |
+| 06 | Deep learning for NLP (Word2Vec + PyTorch classifier) | [Lab_06](Lab_06) |
 
 Each lab folder has its own `main.py` and `README.md`.
