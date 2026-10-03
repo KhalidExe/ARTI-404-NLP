@@ -6,7 +6,7 @@ The notebook is already run, so the outputs show without running anything.
 
 ## How to run
 
-Open `Lab_01.ipynb` in Jupyter or VS Code and run all cells. The first cell installs the libraries, and you need internet to download the dataset.
+Open `Lab_01.ipynb` in Jupyter or VS Code and run all cells. Install the libraries first (the notebook lists the pip command), and you need internet to download the dataset.
 
 ## Libraries
 

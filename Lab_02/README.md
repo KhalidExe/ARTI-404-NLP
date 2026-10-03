@@ -11,7 +11,7 @@ The explanations are written in the notebook under each task. The notebook is al
 
 ## How to run
 
-Open `Lab_02.ipynb` in Jupyter or VS Code and run all cells. The first cell installs the libraries and the first code cell downloads the spaCy model and NLTK data, so you need internet.
+Open `Lab_02.ipynb` in Jupyter or VS Code and run all cells. Install the libraries first (the notebook lists the pip command). The first code cell downloads the spaCy model and NLTK data if they are missing, so you need internet.
 
 ## Libraries
 
