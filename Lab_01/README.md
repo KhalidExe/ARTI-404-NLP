@@ -1,17 +1,12 @@
 # Lab 1 - Intro to NLP
 
-This lab loads the IMDB 50K movie reviews dataset (CSV) and looks at it with pandas.
-The script downloads the data from Kaggle, prints the first rows, `describe()`, `info()`,
-and how many positive and negative reviews there are. It also checks that NLTK is installed.
+Everything is in `Lab_01.ipynb`. It checks that NLTK is installed, downloads the IMDB 50K movie reviews dataset (CSV) from Kaggle and explores it with pandas: `head()`, `describe()`, `info()` and how many positive and negative reviews there are.
+
+The notebook is already run, so the outputs show without running anything.
 
 ## How to run
 
-```
-pip install nltk pandas kagglehub
-python main.py
-```
-
-You need internet the first time so kagglehub can download the dataset.
+Open `Lab_01.ipynb` in Jupyter or VS Code and run all cells. The first cell installs the libraries, and you need internet to download the dataset.
 
 ## Libraries
 
