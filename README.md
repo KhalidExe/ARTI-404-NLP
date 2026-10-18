@@ -14,5 +14,6 @@ Lab work for ARTI 404: Natural Language Processing.
 | 06 | Deep learning for NLP (Word2Vec + PyTorch classifier) | [Lab_06](Lab_06) |
 | 07 | Large language models (decoder, encoder-decoder, encoder) | [Lab_07](Lab_07) |
 | 08 | Part-of-speech tagging (NLTK and spaCy) | [Lab_08](Lab_08) |
+| 09 | Named entity recognition (spaCy, custom NER model) | [Lab_09](Lab_09) |
 
 Each lab folder has its own `main.py` and `README.md`.
