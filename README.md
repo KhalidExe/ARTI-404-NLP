@@ -15,5 +15,6 @@ Lab work for ARTI 404: Natural Language Processing.
 | 07 | Large language models (decoder, encoder-decoder, encoder) | [Lab_07](Lab_07) |
 | 08 | Part-of-speech tagging (NLTK and spaCy) | [Lab_08](Lab_08) |
 | 09 | Named entity recognition (spaCy, custom NER model) | [Lab_09](Lab_09) |
+| 10 | Machine translation (LSTM encoder-decoder) | [Lab_10](Lab_10) |
 
 Each lab folder has its own `main.py` and `README.md`.
