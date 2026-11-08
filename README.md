@@ -17,5 +17,6 @@ Lab work for ARTI 404: Natural Language Processing.
 | 09 | Named entity recognition (spaCy, custom NER model) | [Lab_09](Lab_09) |
 | 10 | Machine translation (LSTM encoder-decoder) | [Lab_10](Lab_10) |
 | 11 | Attention with RNN (PyTorch) | [Lab_11](Lab_11) |
+| 12 | Transformers (DistilBERT and BERT attention) | [Lab_12](Lab_12) |
 
 Each lab folder has its own `main.py` and `README.md`.
