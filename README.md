@@ -18,5 +18,6 @@ Lab work for ARTI 404: Natural Language Processing.
 | 10 | Machine translation (LSTM encoder-decoder) | [Lab_10](Lab_10) |
 | 11 | Attention with RNN (PyTorch) | [Lab_11](Lab_11) |
 | 12 | Transformers (DistilBERT and BERT attention) | [Lab_12](Lab_12) |
+| 13 | Information retrieval for RAG (TF-IDF search) | [Lab_13](Lab_13) |
 
 Each lab folder has its own `main.py` and `README.md`.
